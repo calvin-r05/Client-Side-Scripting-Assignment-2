@@ -1,0 +1,36 @@
+#Rookies {
+display: flex;
+border-color: black;
+border-width: 5px;
+border-style: solid;
+background-color: gray;
+overflow-x: auto;
+}
+#Champions {
+    display: flex;
+    background-color: darkgray;
+    border-width: 5px;
+border-style: solid;
+background-color: gray;
+overflow-x: auto;
+}
+#Ultimates {
+    display: flex;
+    background-color: beige;
+    border-width: 5px;
+border-style: solid;
+background-color: gray;
+overflow-x: auto;
+}
+#Name_Endpoint_Example {
+    display: flex;
+    background-color: beige;
+    border-width: 5px;
+border-style: solid;
+background-color: gray;
+overflow-x: auto;
+}
+h1 {
+    align-content: center;
+}
+  
